@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Paul Zegarek, a current Software Engineering student at Quinnipiac University starting in Spring 2024. I have devoted myself to excellent opportunities that demonstrated my programming skills in real life settings. I have been previously a student at CT State Community Colleges from Fall 2021 through Fall 2023.  
 <!--
 **PaulZ357/PaulZ357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
