@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Paul Zegarek, a current Software Engineering student at Quinnipiac University starting in Spring 2024. I have devoted myself to excellent opportunities that demonstrated my programming skills in real life settings. I have been previously a student at CT State Community Colleges from Fall 2021 through Fall 2023.  
+My name is Paul Zegarek, and I am currently persuing a Bachelor's degree in Software Engineering at Quinnipiac University. With a strong passion in programming, developing, applying technical knowledge in various settings, or simply learning new material, I hope that I could one day transform the Software Industry in the blink of an eye.
+
+As a student at Quinnipiac University, I have participated in various opportunities that demonstrates my knowledge about programming and Software Development. Here are some of the projects I have worked on as a student at QU:
 <!--
 **PaulZ357/PaulZ357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
